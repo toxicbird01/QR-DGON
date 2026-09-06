@@ -187,7 +187,6 @@ Camera permission is requested only when you use the QR scanner.
 # 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/DESIGN.png" width="200" alt="QR DGON Home">
   <img src="screenshots/INTERFACE.png" width="200" alt="QR DGON Create QR">
 </p>
 
