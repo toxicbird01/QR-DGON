@@ -1,261 +1,367 @@
-# QR DGON
+# 📱 QR DGON
 
-<p align="center">
-  <img src="YOUR_LOGO_URL_HERE" width="140" alt="QR DGON Logo">
-</p>
+### ✨ Simple. Fast. Powerful.
 
-<h2 align="center">Simple. Fast. Powerful.</h2>
+QR DGON is an all-in-one QR code generator and scanner designed to make creating, scanning, customizing, saving, and sharing QR codes simple and convenient.
 
-<p align="center">
-  A modern Android QR Code Generator & Scanner
-</p>
-
-<p align="center">
-  Create • Scan • Customize • Save • Share
-</p>
+With QR DGON, you can create QR codes for everyday information, scan QR codes using your camera, personalize their appearance, save important codes, organize your QR history, export QR codes as images, and share them directly from your device.
 
 ---
 
-## 📱 About QR DGON
+## 🔲 Create QR Codes
 
-**QR DGON** is a modern, clean, and privacy-focused Android application designed to make working with QR codes simple and convenient.
+QR DGON supports a wide range of QR code types for personal, professional, and everyday use.
 
-Create QR codes for websites, text, Wi-Fi networks, phone numbers, email addresses, SMS messages, contacts, locations, calendar events, WhatsApp, Telegram, social links, and supported payment formats.
+### 🌐 Website / URL
+Create QR codes for websites, links, and online pages. Simply enter a URL and generate a QR code that can be scanned to access the destination.
 
-You can customize your QR codes, add a center logo, save them to your history, mark important codes as favorites, export them as PNG images, and share them directly from your device.
+### 📝 Text
+Convert plain text into a QR code. Useful for notes, messages, instructions, information sharing, and other text-based content.
 
-QR DGON also includes a fast camera-based QR scanner for quickly reading QR codes and keeping scanned results organized.
+### 📶 Wi-Fi
+Create QR codes containing Wi-Fi network information. Share your wireless network more easily without requiring others to manually enter the connection details.
 
----
+### 📞 Phone
+Create QR codes for phone numbers, making it easier to share contact numbers.
 
-# ✨ Features
+### ✉️ Email
+Create QR codes containing email information for quick sharing.
 
-## 🔲 QR Code Generator
+### 💬 SMS
+Generate QR codes containing a phone number and predefined SMS information.
 
-Create QR codes for many different types of information:
+### 👤 Contact / vCard
+Create digital contact QR codes for sharing supported contact information.
 
-| Type | Description |
-|------|-------------|
-| 🌐 Website / URL | Create QR codes for websites and links |
-| 📝 Text | Convert any text into a QR code |
-| 📶 Wi-Fi | Share Wi-Fi network information |
-| 📞 Phone | Create QR codes for phone numbers |
-| ✉️ Email | Share email information |
-| 💬 SMS | Create predefined SMS QR codes |
-| 👤 Contact / vCard | Share contact information |
-| 📍 Location | Share geographic locations |
-| 📅 Calendar Event | Share event information |
-| 🟢 WhatsApp | Create supported WhatsApp links |
-| ✈️ Telegram | Create supported Telegram links |
-| 🔗 Social Links | Share supported social profiles |
-| 💳 Payment | Create supported payment QR formats |
+### 📍 Location
+Create QR codes for geographic locations and share a location through a scannable code.
 
----
+### 📅 Calendar Event
+Create QR codes containing supported event information such as event title, date, time, location, and description.
 
-# 📷 QR Code Scanner
+### 🟢 WhatsApp
+Create QR codes for supported WhatsApp links and destinations.
 
-Scan QR codes quickly using your device camera.
+### ✈️ Telegram
+Create QR codes for supported Telegram links.
 
-### Scanner features
+### 🔗 Social Links
+Create QR codes for supported social media profiles and other social links.
 
-- Fast QR detection
-- Full-screen camera scanner
-- Clear scanning frame
-- Flashlight support
-- Camera permission requested only when scanning
-- Automatic scan result handling
-- Safe handling of detected information
-- Scanned QR codes can be saved to history
+### 💳 Payment
+Create QR codes for supported payment formats where applicable.
 
 ---
 
-# 🎨 QR Customization
+## 📷 Scan QR Codes
 
-Create QR codes that match your style.
+QR DGON includes a dedicated camera-based QR scanner that lets you quickly scan QR codes using your device camera.
 
-### Customization options
+### Scanner Features
 
-- Foreground color
-- Background color
-- QR size
-- Error correction
-- Center logo
-- Live preview
-- Contrast checking
-- Reset customization
+- ⚡ Fast QR code detection
+- 🎯 Clear scanning frame
+- 🔦 Flashlight support
+- 📷 Camera-based scanning
+- 📋 Clear scan result handling
+- 💾 Save scanned QR codes to history
+- 🔐 Camera permission requested only when scanning
 
-Add your own logo using Android's Photo Picker and create personalized QR codes for personal or professional use.
-
-QR DGON also checks color contrast to help maintain QR readability.
+The camera is not required for normal QR creation and is accessed when you choose to use the scanner.
 
 ---
 
-# 💾 History
+## 🎨 Customize QR Codes
 
-Keep your QR activity organized in one place.
+QR DGON lets you personalize your generated QR codes.
 
-QR DGON can store both:
+### Customization Options
 
+🎨 **Foreground Color**  
+Choose the color of the QR code.
+
+🖌️ **Background Color**  
+Choose a background color for your QR code.
+
+📐 **QR Size**  
+Select from available QR code sizes for different use cases.
+
+🛡️ **Error Correction**  
+Choose between supported error correction levels:
+
+- L
+- M
+- Q
+- H
+
+🖼️ **Center Logo**  
+Add a logo to the center of your QR code using Android's Photo Picker.
+
+👀 **Live Preview**  
+See your QR code while customizing it.
+
+⚠️ **Contrast Checking**  
+QR DGON checks the contrast between QR colors and provides a warning when a combination may affect readability.
+
+🔄 **Reset**  
+Restore customization settings when needed.
+
+---
+
+## 💾 Save QR Codes
+
+Save generated QR codes so you can access them again later without recreating them.
+
+QR DGON can keep both created and scanned QR codes in your local history.
+
+This makes it easy to keep frequently used information available whenever you need it.
+
+---
+
+## 🗂️ QR History
+
+QR DGON keeps your QR activity organized.
+
+Your history can include:
+
+- 🔲 Created QR codes
+- 📷 Scanned QR codes
+
+### History Tools
+
+🔍 **Search**  
+Find saved QR codes quickly.
+
+🗂️ **Filter**  
+Filter your QR activity to find the records you need.
+
+⭐ **Favorites**  
+Mark important QR codes for quick access.
+
+🗑️ **Delete**  
+Remove individual QR records.
+
+🧹 **Clear History**  
+Remove your stored QR history when needed.
+
+🕘 **Recent Activity**  
+Quickly access your latest QR activity.
+
+---
+
+## ⭐ Favorites
+
+Keep your most important QR codes close at hand.
+
+Favorite QR codes can include:
+
+📶 Wi-Fi information  
+🌐 Websites  
+👤 Contacts  
+🏢 Business links  
+🔗 Social profiles  
+💳 Payment information  
+📄 Frequently used information
+
+Favorites make it easier to access QR codes you use regularly.
+
+---
+
+## 📤 Export QR Codes
+
+Save your generated QR codes as PNG images.
+
+Export your QR codes for use in:
+
+💼 Business cards  
+🎨 Posters  
+📰 Flyers  
+📋 Documents  
+📊 Presentations  
+🌐 Websites  
+📱 Social media  
+🖨️ Printed materials  
+🏢 Business promotions  
+🎓 Personal and professional projects
+
+---
+
+## 🔗 Share QR Codes
+
+Share QR codes directly from QR DGON using Android's standard sharing system.
+
+You can share your QR images with compatible:
+
+💬 Messaging apps  
+✉️ Email apps  
+☁️ Cloud storage  
+📱 Social media apps  
+📂 Other supported applications
+
+QR DGON uses Android's secure content-sharing system for exported QR images.
+
+---
+
+## 🏠 Home
+
+The Home screen gives you quick access to the most important QR DGON features.
+
+### Quick Actions
+
+🔲 **Create QR Code**  
+Start creating a new QR code.
+
+📷 **Scan QR Code**  
+Open the QR scanner.
+
+### Recent Activity
+
+View recent QR activity directly from the Home screen so frequently used QR codes are easier to access.
+
+---
+
+## ➕ Create
+
+The Create section lets you choose the type of QR code you want to generate.
+
+Select a QR type, enter the required information, and generate your QR code.
+
+After creating a QR code, you can:
+
+👀 Preview it  
+🎨 Customize it  
+💾 Save it  
+⭐ Add it to Favorites  
+📤 Export it  
+🔗 Share it  
+✏️ Edit it  
+🗑️ Delete it
+
+---
+
+## 📷 Scanner
+
+The Scanner section provides a dedicated QR scanning experience.
+
+Point your camera at a QR code and let QR DGON detect it.
+
+The scanner includes a clear scanning frame and flashlight support for low-light environments.
+
+---
+
+## 🗂️ History
+
+The History section provides one place to manage your QR activity.
+
+You can view and manage:
+
+- All QR records
 - Created QR codes
 - Scanned QR codes
+- Favorite QR codes
 
-### History tools
-
-- 🔍 Search
-- 🔲 Filter
-- ⭐ Favorites
-- 🗑️ Delete individual records
-- 🧹 Clear history
-- 🕘 Recent QR activity
-
-Your most recent QR codes can also be accessed directly from the Home screen.
+Use search and filters to find the QR code you need quickly.
 
 ---
 
-# ⭐ Favorites
+## ⚙️ Settings
 
-Save important QR codes as favorites for quick access.
+The Settings section provides access to application preferences and information.
 
-Favorites can be useful for frequently used:
-
-- Wi-Fi QR codes
-- Websites
-- Contacts
-- Payment information
-- Business links
-- Social profiles
+Manage supported appearance and QR preferences, and access application information and privacy information.
 
 ---
 
-# 📤 Export & Share
+## 🌙 Light & Dark Themes
 
-Export your QR codes as PNG images and share them using Android's standard sharing system.
+Choose the appearance that works best for you.
 
-Use exported QR codes for:
+☀️ **Light Mode**  
+A clean and bright interface.
 
-- Business cards
-- Posters
-- Documents
-- Presentations
-- Social media
-- Websites
-- Printed materials
+🌙 **Dark Mode**  
+A darker interface for comfortable use in low-light environments.
 
----
-
-# 🌙 Themes
-
-QR DGON supports multiple appearance modes:
-
-- ☀️ Light
-- 🌙 Dark
-- ⚙️ System Default
+⚙️ **System Default**  
+Automatically follow your Android system appearance.
 
 Your selected theme is saved for future use.
 
 ---
 
-# 🔒 Privacy
+## 🔒 Privacy Focused
 
 QR DGON is designed with privacy in mind.
 
 Your QR history and application preferences are stored locally on your device.
 
-The core QR generation, customization, and history features do not require an account.
+The core QR generation, customization, history, and favorites features do not require an account.
 
-Camera permission is requested only when you use the QR scanner.
+Camera permission is requested only when you choose to use the QR scanner.
 
----
-
-# 🖼️ Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="200" alt="QR DGON Home">
-  <img src="screenshots/create.png" width="200" alt="QR DGON Create QR">
-  <img src="screenshots/scanner.png" width="200" alt="QR DGON Scanner">
-  <img src="screenshots/history.png" width="200" alt="QR DGON History">
-</p>
-
-<p align="center">
-  <img src="screenshots/result.png" width="200" alt="QR DGON QR Result">
-  <img src="screenshots/customize.png" width="200" alt="QR DGON Customization">
-  <img src="screenshots/settings.png" width="200" alt="QR DGON Settings">
-</p>
+QR DGON uses Android's secure sharing mechanisms when sharing exported QR images.
 
 ---
 
-# 🛠️ Technology
+## 🚀 Update Checking
 
-QR DGON is built using modern Android technologies.
+QR DGON includes update checking to help users know when a newer application release is available.
 
-| Technology | Purpose |
-|------------|---------|
-| Kotlin | Primary programming language |
-| Jetpack Compose | User interface |
-| Material 3 | Design system |
-| CameraX | Camera and scanner integration |
-| Google ML Kit | QR code detection |
-| DataStore | Persistent preferences |
-| SQLite | Local QR history |
-| Android Photo Picker | Logo selection |
-| MediaStore | PNG export |
-| FileProvider | Secure sharing |
+The app can check remote release information over HTTPS, compare the available version with the installed version, and provide access to the release page.
+
+QR DGON does not silently install application updates.
 
 ---
 
-# 📱 Requirements
+## 🎯 What QR DGON Can Do
 
-- Android 8.0 (API 26) or higher
-- Camera required for QR scanning
-- Internet connection may be required for certain QR content or external links
+With QR DGON, you can:
+
+🔲 Create QR codes for websites and links  
+📝 Create QR codes from text  
+📶 Share Wi-Fi information  
+📞 Share phone numbers  
+✉️ Share email information  
+💬 Create SMS QR codes  
+👤 Share contact information  
+📍 Share locations  
+📅 Share calendar events  
+🟢 Create supported WhatsApp QR links  
+✈️ Create supported Telegram QR links  
+🔗 Share supported social links  
+💳 Create supported payment QR codes  
+📷 Scan QR codes with your camera  
+🔦 Scan using flashlight support  
+🎨 Customize QR colors  
+📐 Change QR size  
+🛡️ Choose error correction  
+🖼️ Add a center logo  
+👀 Preview customized QR codes  
+⚠️ Check QR color contrast  
+💾 Save QR codes  
+⭐ Favorite important QR codes  
+🔍 Search QR history  
+🗂️ Filter QR history  
+🗑️ Delete saved records  
+🧹 Clear history  
+📤 Export QR codes as PNG images  
+🔗 Share QR images  
+🌙 Use Light, Dark, or System theme
 
 ---
 
-# 🚀 Download
+## 💡 Made for Everyday Use
 
-Download the latest version of QR DGON from the **Releases** section.
+QR DGON can be used for personal, business, educational, and professional purposes.
 
-<p align="center">
+Use it to share information quickly, create QR codes for printed materials, organize frequently used QR codes, scan codes you encounter, or create personalized QR codes with your own colors and logo.
 
-<a href="https://github.com/toxicbird01/QR-DGON/releases">
-  <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
-</a>
-
-</p>
-
-### Google Play
-
-Coming soon.
+Everything you need to **create, scan, customize, save, export, and share QR codes** is brought together in one application.
 
 ---
 
-# 📋 Version
+# 📱 QR DGON
 
-**Current Version:** `1.0.0`
+### ✨ Simple. Fast. Powerful.
 
-**Minimum Android Version:** Android 8.0 (API 26)
-
-**Target Android Version:** Android 16 / API 36
-
----
-
-# 🧩 Project Structure
-
-```text
-QR-DGON/
-│
-├── app/
-│   └── src/
-│       ├── main/
-│       ├── test/
-│       └── androidTest/
-│
-├── gradle/
-│
-├── build.gradle.kts
-├── settings.gradle.kts
-├── gradle.properties
-├── gradlew
-├── gradlew.bat
-├── .gitignore
-└── README.md
+**Create • Scan • Customize • Save • Share**
