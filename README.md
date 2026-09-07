@@ -1,7 +1,7 @@
 # QR DGON
 
 <p align="center">
-  <img src="screenshots/LOGO.png" width="300" alt="QR DGON Logo">
+  <img src="screenshots/LOGO.png" width="250" alt="QR DGON Logo">
 </p>
 
 <h2 align="center">Simple. Fast. Powerful.</h2>
